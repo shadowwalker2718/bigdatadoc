@@ -58,8 +58,8 @@ or run it in each machine of u0, u1 and u3
 
 2. start kafka
 
-ssh u0: kafka-server-start.sh /opt/share/kafka/config/server.u0.properties
-ssh u1: kafka-server-start.sh /opt/share/kafka/config/server.u1.properties
-ssh u2: kafka-server-start.sh /opt/share/kafka/config/server.u2.properties
+ssh u0: kafka-server-start.sh /opt/share/kafka/config/server.u0.properties  
+ssh u1: kafka-server-start.sh /opt/share/kafka/config/server.u1.properties  
+ssh u2: kafka-server-start.sh /opt/share/kafka/config/server.u2.properties  
 
 
