@@ -63,3 +63,16 @@ ssh u1: kafka-server-start.sh /opt/share/kafka/config/server.u1.properties
 ssh u2: kafka-server-start.sh /opt/share/kafka/config/server.u2.properties  
 
 
+
+## Data:
+
+https://snap.stanford.edu/data/web-Google.html
+
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video6_3.html
+
+https://github.com/apache/incubator-toree
+
+```
+ansible u3 -a "pip install https://dist.apache.org/repos/dist/dev/incubator/toree/0.2.0/snapshots/dev1/toree-pip/toree-0.2.0.dev1.tar.gz"
+ansible u3 -a "jupyter toree install"
+```
