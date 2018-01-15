@@ -76,3 +76,29 @@ https://github.com/apache/incubator-toree
 ansible u3 -a "pip install https://dist.apache.org/repos/dist/dev/incubator/toree/0.2.0/snapshots/dev1/toree-pip/toree-0.2.0.dev1.tar.gz"
 ansible u3 -a "jupyter toree install"
 ```
+
+Upgrade system:
+```
+pip install --upgrade --force-reinstall --no-cache-dir jupyter
+pip install --upgrade --force-reinstall --no-cache-dir ipython
+
+apt-get update && apt-get upgrade -y
+```
+
+
+## start jupyter
+
+in `u3`:
+
+```
+cd /opt/share/notebook
+jupyter notebook  --allow-root
+```
+
+Change bind address and port:  
+```
+$jupyter notebook --generate-config
+Writing default config to: /root/.jupyter/jupyter_notebook_config.py
+```
+
+
