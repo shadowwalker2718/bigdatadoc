@@ -111,7 +111,11 @@ https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788
 
 https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video8_1.html
 
-- Marvel Social Network
+- Marvel Social Network - GraphX
 
-https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video10_1.html
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video10_1.html  
+https://www.kaggle.com/csanhueza/the-marvel-universe-social-network
+
+
+
 
