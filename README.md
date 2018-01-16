@@ -107,7 +107,7 @@ Writing default config to: /root/.jupyter/jupyter_notebook_config.py
 
 https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video6_3.html
 
-- Recommendation
+- Recommendation - MLlib
 
 https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video8_1.html
 
@@ -116,6 +116,8 @@ https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788
 https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video10_1.html  
 https://www.kaggle.com/csanhueza/the-marvel-universe-social-network
 
+- Payment Failure Monitoring - Spark Streaming
 
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video9_1.html
 
 
