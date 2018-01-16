@@ -101,4 +101,17 @@ $jupyter notebook --generate-config
 Writing default config to: /root/.jupyter/jupyter_notebook_config.py
 ```
 
+## Algo
+
+- Pagerank
+
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video6_3.html
+
+- Recommendation
+
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video8_1.html
+
+- Marvel Social Network
+
+https://www.safaribooksonline.com/library/view/scalable-programming-with/9781788997881/video10_1.html
 
